@@ -1,12 +1,7 @@
 == Address Book mapper
 
-This is an idea I had yesterday, to have a set of users and map out their locations based on a geocoded address.
+This takes a users information, converts it into latitutde and longitude, then plots the information on a Google Map API that we later customize 
 
+For a visual Check out this short video
 
-*Google Maps API
-
-*Active Record Relationships
-
-*Json
-
-*Styling google maps with Java :)
+https://www.youtube.com/embed/oi3yxYs8Y4Q
